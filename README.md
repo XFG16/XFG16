@@ -2,7 +2,7 @@
 aka mren16 || 2309#2309
 ## Hi, I'm a sophomore 👋
 Hola, 你好, salut, こんにちは, hallo, नमस्ते, 안녕, Привет
-## Take a look at [https://github.com/XFG16/YouTubeDiscordPresence](YouTubeDiscordPresence)
+## Take a look at [XFG16 / YouTubeDiscordPresence](https://github.com/XFG16/YouTubeDiscordPresence)
 Ego scales with amount of ✨ **stars** ✨ and Chrome extension **users** that it has
 
 <!---
