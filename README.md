@@ -6,7 +6,7 @@ Hola, 你好, salut, こんにちは, hallo, नमस्ते, 안녕, При�
 
 <p align="left">
     <a href="https://chrome.google.com/webstore/detail/youtubediscordpresence/hnmeidgkfcbpjjjpmjmpehjdljlaeaaa" alt="Chrome Extension">
-        <img src="https://img.shields.io/badge/Chrome%20Web%20Store-300%2B%20Users-blue" /></a>
+        <img src="https://img.shields.io/badge/Chrome%20Web%20Store-400%2B%20Users-blue" /></a>
     <img src="https://img.shields.io/badge/Amogus-What%20the%20sus%3F%3F%3F-red" />
 </p>
 
