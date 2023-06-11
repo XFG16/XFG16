@@ -1,6 +1,6 @@
 # [XFG16 / XFG16](https://github.com/XFG16/YouTubeDiscordPresence)
 aka mren16 || 2309#2309
-## Hi, I'm a sophomore 👋
+## Hi, I'm a rising junior 👋
 Hola, 你好, salut, こんにちは, hallo, नमस्ते, 안녕, Привет, 
 ## Take a look at [XFG16 / YouTubeDiscordPresence](https://github.com/XFG16/YouTubeDiscordPresence)
 
