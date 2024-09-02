@@ -4,8 +4,9 @@ Hola, 你好, salut, こんにちは, hallo, नमस्ते, 안녕하세요
 
 <p align="left">
     <a href="https://chrome.google.com/webstore/detail/youtubediscordpresence/hnmeidgkfcbpjjjpmjmpehjdljlaeaaa" alt="Chrome Extension">
-        <img src="https://img.shields.io/badge/Chrome%20Web%20Store-6%2C000%2B%20Users-blue" /></a>
-    <img src="https://img.shields.io/badge/Amogus-What%20the%20sus%3F%3F%3F-red" />
+        <img src="https://img.shields.io/badge/Chrome%20Web%20Store-6%2C000%2B%20Users-critical" /></a>
+    <a href="https://chrome.google.com/webstore/detail/youtubediscordpresence/hnmeidgkfcbpjjjpmjmpehjdljlaeaaa" alt="Category: Social & Communication">
+        <img src="https://img.shields.io/badge/Total%20Installs-21%2C000%2B-blue" /></a>
 </p>
 
 Do me a favor and download it thanks!
