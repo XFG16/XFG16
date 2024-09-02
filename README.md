@@ -7,6 +7,10 @@ Hola, 你好, salut, こんにちは, hallo, नमस्ते, 안녕하세요
         <img src="https://img.shields.io/badge/Chrome%20Web%20Store-6%2C000%2B%20Users-critical" /></a>
     <a href="https://chrome.google.com/webstore/detail/youtubediscordpresence/hnmeidgkfcbpjjjpmjmpehjdljlaeaaa" alt="Category: Social & Communication">
         <img src="https://img.shields.io/badge/Total%20Installs-21%2C000%2B-blue" /></a>
+    <a href="https://chrome.google.com/webstore/detail/youtubediscordpresence/hnmeidgkfcbpjjjpmjmpehjdljlaeaaa" alt="Category: Social & Communication">
+        <img src="https://img.shields.io/badge/Category-Social%20%26%20Communication-blueviolet" /></a>
+    <a href="https://github.com/XFG16/YouTubeDiscordPresence#license" alt="MIT License">
+        <img src="https://img.shields.io/badge/License-MIT-yellow" /></a>
 </p>
 
 Do me a favor and download it thanks!
