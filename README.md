@@ -1,6 +1,4 @@
-# XFG16 / XFG16
-aka mren16 || 2309#2309
-## Welcome to my GitHub 👋
+#  Welcome to my GitHub 👋
 Hola, 你好, salut, こんにちは, hallo, नमस्ते, 안녕하세요, Привет, zdravo, ahoj, hej, bonjour, sveiki, сайн уу, xin chào
 ## Take a look at [XFG16 / YouTubeDiscordPresence](https://github.com/XFG16/YouTubeDiscordPresence)
 
