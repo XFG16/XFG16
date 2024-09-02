@@ -10,8 +10,8 @@ Hola, 你好, salut, こんにちは, hallo, नमस्ते, 안녕하세요
     <img src="https://img.shields.io/badge/Amogus-What%20the%20sus%3F%3F%3F-red" />
 </p>
 
-Ego scales with amount of ✨ **stars** ✨ and Chrome extension **users** that it has<br>
-Would mean a lot if you installed it too, thanks!
+Do me a favor and download it thanks!
+Would mean a lot if you starred ⭐ it too...
 
 <!---
 XFG16/XFG16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
